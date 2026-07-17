@@ -190,10 +190,10 @@ Tip for GitHub: Place your images in a /screenshots folder and embed them like t
 
 ## Dashboard Preview
 
-![Landing Page](Screenshots/landing-page.png)
+![Landing Page](https://github.com/Khushal-mishra/Airbnb-Insights-Dashboard/blob/main/Screenshots/Landing%20Page.jpeg)
 
-![Overview](screenshots/overview.png)
+![Overview](https://github.com/Khushal-mishra/Airbnb-Insights-Dashboard/blob/main/Screenshots/Overview.jpeg)
 
-![Ratings](screenshots/ratings.png)
+![Ratings](https://github.com/Khushal-mishra/Airbnb-Insights-Dashboard/blob/main/Screenshots/Ratings.jpeg)
 
-![Reviews](screenshots/reviews.png)
+![Reviews](https://github.com/Khushal-mishra/Airbnb-Insights-Dashboard/blob/main/Screenshots/Reviews.jpeg)
